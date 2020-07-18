@@ -1,8 +1,5 @@
 ## I am Kes Cardoso &nbsp; &nbsp; &nbsp; <a href="https://github.com/kescardoso" alt="GitHub" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/github-16.png"></a> &nbsp; <a href="mailto:kescardoso@gmail.com" alt="Email" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/email-16.png"></a> &nbsp; <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> &nbsp; <a href="https://twitter.com/TokensForK" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a> &nbsp; <a href="https://instagram.com/kescardoso" alt="Instagram" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/instagram-16.png"></a>
 
-### Command line bodhisattva, enlightening tiny pixels for a greater purpose 💫
-*Full-Stack software developer (currently completing my diploma training at Code Institute) and UX design unicorn (self-teaching). FinTech and Cryptocurrency enthusiast (I also tweet about cryptocoins at [@TokensForK](https://twitter.com/TokensForK)).*
-
 ![](https://github.com/kescardoso/kescardoso/blob/master/images/header.png)
 
 🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
