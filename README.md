@@ -1,4 +1,4 @@
-## I am Kes Cardoso <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/icons/linkedin-16.png"></a> <a href="https://twitter.com/TokensForK" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/icons/twitter-16.png"></a>
+## I am Kes Cardoso <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> <a href="https://twitter.com/TokensForK" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a>
 
 #### Command line bodhisattva, enlightening tiny pixels for a greater purpose 💫
 *Full-Stack software developer (currently completing my diploma training at Code Institute) and UX design unicorn (self-teaching). FinTech and Cryptocurrency enthusiast (I also tweet about cryptocoins at [@TokensForK](https://twitter.com/TokensForK)).*
