@@ -1,4 +1,4 @@
-## I am Kes Cardoso &nbsp; &nbsp; &nbsp; <a href="https://github.com/kescardoso" alt="GitHub" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/github-16.png"></a> &nbsp; <a href="mailto:kescardoso@gmail.com" alt="Email" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/email-16.png"></a> &nbsp; <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> &nbsp; <a href="https://twitter.com/TokensForK" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a> &nbsp; <a href="https://instagram.com/kescardoso" alt="Instagram" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/instagram-16.png"></a>
+## I am Kes Cardoso &nbsp; &nbsp; <a href="https://github.com/kescardoso" alt="GitHub" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/github-16.png"></a> &nbsp; <a href="mailto:kescardoso@gmail.com" alt="Email" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/email-16.png"></a> &nbsp; <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> &nbsp; <a href="https://twitter.com/TokensForK" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a> &nbsp; <a href="https://instagram.com/kescardoso" alt="Instagram" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/instagram-16.png"></a>
 
 ![](https://github.com/kescardoso/kescardoso/blob/master/images/header.png)
 
@@ -8,7 +8,7 @@
 
 👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or organization
 
-⚡ **Fun fact:** I am an Italian-Brazilian girl from Nice (France) with a Canadian-English accent (I gave up trying to decide where I'm from)
+⚡ **Fun fact:** I am Italian-Brazilian, from Nice (France), with a Canadian-English accent. I gave up figuring out where I'm from :)
 
 <hr>
 
@@ -40,7 +40,9 @@
 <br>
 
 <p align="center">
-    🔔
-    <strong>Feel free to check my current projects bellow, and my repos from the main menu bar 👀</strong>
+    🔔 &nbsp; <strong>Feel free to check my current projects bellow, and my repos from the main menu bar &nbsp; 👀</strong>
+    <p align="center">
+        ⬇︎ &nbsp; ⬇︎ &nbsp; ⬇︎ 
+    </p>
 
 </p>
