@@ -3,8 +3,6 @@
 ### Command line bodhisattva, enlightening tiny pixels for a greater purpose 💫
 *Full-Stack software developer (currently completing my diploma training at Code Institute) and UX design unicorn (self-teaching). FinTech and Cryptocurrency enthusiast (I also tweet about cryptocoins at [@TokensForK](https://twitter.com/TokensForK)).*
 
-<hr>
-
 🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
 
 🌱 **I’m currently learning:** Django testing, UX design and Blockchain concepts
