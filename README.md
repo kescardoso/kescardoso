@@ -5,7 +5,7 @@
 
 🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
 
-🌱 **I’m currently learning:** Django testing, UX design and Blockchain concepts
+🌱 **I’m currently learning:** Django testing, and Cryptocurrency investment
 
 👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or organization
 
