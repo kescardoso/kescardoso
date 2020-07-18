@@ -6,7 +6,7 @@
 - 🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
 - 🌱 **I’m currently learning:** Django testing, UX design and Blockchain concepts
 - 👯 **I’m looking to collaborate on:** an awesome Fintech organization
-- ⚡ **Fun fact:** I am an Italian-Brazilian girl from Nice (France) with a Canadian english accent. I gave up trying to decide where I'm from 🤓
+- ⚡ **Fun fact:** I am an Italian-Brazilian girl from Nice (France) with a Canadian english accent (I gave up trying to decide where I'm from)
 
 ### Languages
 
