@@ -40,7 +40,8 @@
 
 <br>
 
-<p align="center">
-    Feel free to check my current projects bellow, and my repos from the main menu bar 👀
+<p align="center" style="background-color:#fffdde">
+    🔔
+    <strong>Feel free to check my current projects bellow, and my repos from the main menu bar 👀</strong>
 
 </p>
