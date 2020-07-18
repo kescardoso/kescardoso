@@ -38,7 +38,9 @@
 ![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
 ![Figma](https://img.shields.io/static/v1?label=Figma&message=🌴&style=flat&color=F24E1E&logo=figma)
 
+<br>
 
-<div style="text-align:center">
-    ✔️ Feel free to check my current projects bellow, and my repos from the main menu bar 👀
-</div>
+<p align="center">
+    Feel free to check my current projects bellow, and my repos from the main menu bar 👀
+
+</p>
