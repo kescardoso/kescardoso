@@ -27,7 +27,7 @@
 
 ### Databases
 
-![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4,2,8&style=flat&color=47A248&logo=mongodb)
+![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
 ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8&style=flat&color=4479A1&logo=mysql)
 
 ### Tech Tools
