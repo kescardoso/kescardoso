@@ -30,12 +30,19 @@
 ![MongoDB](https://img.shields.io/static/v1?label=MongoDB&message=4.2.8&style=flat&color=47A248&logo=mongodb)
 ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=8&style=flat&color=4479A1&logo=mysql)
 
-### Tech Tools
+### Content & Version Management
 
-![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌟&style=flat&color=1AA6E4&logo=gitpod)
+![GitPod](https://img.shields.io/static/v1?label=GitPod&message=🌙&style=flat&color=1AA6E4&logo=gitpod)
+![VSCode](https://img.shields.io/static/v1?label=VSCode&message=⭐️&style=flat&color=007ACC&logo=visual-studio-code)
 ![Github](https://img.shields.io/static/v1?label=GitHub&message=🪐&style=flat&color=181717&logo=github)
 ![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
+![Wordpress](https://img.shields.io/static/v1?label=Wordpress&message=👾&style=flat&color=21759B&logo=wordpress)
+
+### UX & Design
+
 ![Figma](https://img.shields.io/static/v1?label=Figma&message=🌴&style=flat&color=F24E1E&logo=figma)
+![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
+![Canva](https://img.shields.io/static/v1?label=Canva&message=🎨&style=flat&color=00C4CC&logo=canva)
 
 <br>
 
