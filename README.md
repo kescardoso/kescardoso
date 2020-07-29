@@ -38,17 +38,17 @@
 ![Heroku](https://img.shields.io/static/v1?label=Heroku&message=👽&style=flat&color=430098&logo=heroku)
 ![Wordpress](https://img.shields.io/static/v1?label=Wordpress&message=👾&style=flat&color=21759B&logo=wordpress)
 
-### UX & Design
-
-![Figma](https://img.shields.io/static/v1?label=Figma&message=🌴&style=flat&color=F24E1E&logo=figma)
-![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
-![Canva](https://img.shields.io/static/v1?label=Canva&message=🎨&style=flat&color=00C4CC&logo=canva)
-
 ### E-commerce
 
 ![Stripe](https://img.shields.io/static/v1?label=Stripe&message=💰&style=flat&color=008CDD&logo=stripe)
 ![WooCommerce](https://img.shields.io/static/v1?label=WooCommerce&message=🛍&style=flat&color=96588A&logo=woo)
 ![PayPal](https://img.shields.io/static/v1?label=PayPal&message=💶&style=flat&color=00457C&logo=paypal)
+
+### UX & Design
+
+![Figma](https://img.shields.io/static/v1?label=Figma&message=🌴&style=flat&color=F24E1E&logo=figma)
+![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
+![Canva](https://img.shields.io/static/v1?label=Canva&message=🎨&style=flat&color=00C4CC&logo=canva)
 
 <br>
 
