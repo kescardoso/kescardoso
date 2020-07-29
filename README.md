@@ -8,7 +8,7 @@
 
 👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or organization
 
-⚡ **Fun fact:** I am Italian-Brazilian, from Nice (France), with a Canadian-English accent. I gave up figuring out where I'm from :)
+⚡ **Fun fact:** I'm Italian-Brazilian, from France, and with a Canadian-English accent: I gave up placing where I'm from 🦄
 
 <hr>
 
