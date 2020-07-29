@@ -44,6 +44,12 @@
 ![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
 ![Canva](https://img.shields.io/static/v1?label=Canva&message=🎨&style=flat&color=00C4CC&logo=canva)
 
+### E-commerce
+
+![Stripe](https://img.shields.io/static/v1?label=Stripe&message=💰&style=flat&color=008CDD&logo=stripe)
+![WooCommerce](https://img.shields.io/static/v1?label=WooCommerce&message=🛍&style=flat&color=96588A&logo=woo)
+![PayPal](https://img.shields.io/static/v1?label=PayPal&message=💶&style=flat&color=00457C&logo=paypal)
+
 <br>
 
 <p align="center">
