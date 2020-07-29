@@ -2,7 +2,7 @@
 
 ![](https://github.com/kescardoso/kescardoso/blob/master/images/header.png)
 
-🔭 **I’m currently working on:** Finishing my diploma training at Code Institute, and working on my final milestone project
+🔭 **I’m currently working on:** Finishing my diploma training at Code Institute, and my final milestone project
 
 🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
 
