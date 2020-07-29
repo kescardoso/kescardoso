@@ -46,9 +46,11 @@
 
 ### UX & Design
 
-![Figma](https://img.shields.io/static/v1?label=Figma&message=🌴&style=flat&color=F24E1E&logo=figma)
+![Figma](https://img.shields.io/static/v1?label=Figma&message=📝&style=flat&color=F24E1E&logo=figma)
+![Bootstrap](https://img.shields.io/static/v1?label=Bootstrap&message=🎨&style=flat&color=563D7C&logo=bootstrap)
+![MaterialDesign](https://img.shields.io/static/v1?label=MaterialDesign&message=🎨&style=flat&color=757575&logo=material-design)
 ![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
-![Canva](https://img.shields.io/static/v1?label=Canva&message=🎨&style=flat&color=00C4CC&logo=canva)
+![Canva](https://img.shields.io/static/v1?label=Canva&message=🖌&style=flat&color=00C4CC&logo=canva)
 
 <br>
 
