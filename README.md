@@ -4,7 +4,7 @@
 
 🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
 
-🌱 **I’m currently learning:** Django testing, and Cryptocurrency investment
+🌱 **I’m currently learning:** How to tend for a home garden and to invest in Cryptocurrency
 
 👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or organization
 
