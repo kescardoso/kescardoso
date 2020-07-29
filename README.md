@@ -2,13 +2,13 @@
 
 ![](https://github.com/kescardoso/kescardoso/blob/master/images/header.png)
 
-🔭 **I’m currently working on:** my milestone project n.4, a Python-Django web app with Stripe checkout
+🔭 **I’m currently working on:** finishing my diploma training at Code Institute, and working on my milestone project n.4 (a Python-Django web app with Stripe checkout)
 
-🌱 **I’m currently learning:** How to tend for a home garden and to invest in Cryptocurrency
+🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
 
-👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or organization
+👯 **I’m looking to collaborate on:** an awesome Fintech and/or Cryptocurrency start-up or company
 
-⚡ **Fun fact:** I'm Italian-Brazilian, from France, and with a Canadian-English accent: I gave up placing where I'm from 🦄
+⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I'm from 🦄
 
 <hr>
 
