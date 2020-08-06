@@ -2,6 +2,8 @@
 
 ![](https://github.com/kescardoso/kescardoso/blob/master/images/header.png)
 
+<img src="https://github.com/kescardoso/kescardoso/blob/master/images/header.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - Full-Stack software develope (training at Code Institute) and UX Design unicorn (self-teaching). FinTech and Blockchain enthusiast. I also tweet about Cryptocurrencies at @TokensForK.">
+
 🔭 **I’m currently working on:** Finishing my diploma training at Code Institute, and my final milestone project
 
 🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
