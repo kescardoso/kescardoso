@@ -10,7 +10,9 @@
 
 ⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I'm from 🦄
 
-<hr>
+<hr>     
+
+
 
 ### Languages
 
@@ -54,18 +56,21 @@
 
 <br>
 
-<h2 align="center">
-    🔔 &nbsp; Feel free to check my current projects and repos bellow, and from the main topmenu &nbsp; 👀
+<h3 align="center">
+    🔔 &nbsp; Check my current projects and repos bellow, or from the topmenu &nbsp; 👀
     <p align="center">
         ⬇︎ &nbsp; ⬇︎ &nbsp; ⬇︎ 
     </p>
-</h2>
+</h3>
 
-<h3 align="center">
+<p align="center">
     <strong>Main Projects (Links)</strong>
-    <p align="center">
-        [ 2020 ]
-        <br>
-        <strong>Repo:</strong> [StripeMe: Milestone #4, under development](https://github.com/kescardoso/stripeme)
-    </p>
-</h2>
+</p>
+
+<p align="center">
+[ 2020 ]
+</p>
+
+1. <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme), currently under development
+
+2. <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [Heroku Site](kika-boutique-ado.herokuapp.com/)
