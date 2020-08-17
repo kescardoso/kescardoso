@@ -66,6 +66,6 @@
     <p align="center">
         [ 2020 ]
         <br>
-        <strong>Repo:</strong> [https://github.com/kescardoso/stripeme](StripeMe: Milestone #4 underdevelopment)
+        <strong>Repo:</strong> [StripeMe: Milestone #4, under development](https://github.com/kescardoso/stripeme)
     </p>
 </h2>
