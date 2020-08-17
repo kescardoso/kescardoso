@@ -75,7 +75,7 @@
 
 4.  <strong>Map&Chill (Milestone #2):</strong> [Repo](https://github.com/kescardoso/mapnchill) | [WebSite](http://mapnchill.me/)
 5.  <strong>Rosie Resume:</strong> [Repo](https://github.com/kescardoso/rosie) | [WebSite](https://kescardoso.github.io/rosie/)
-6.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](thecryptopedia.worldhttps://kescardoso.github.io/yinnsound/)
+6.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](https://kescardoso.github.io/yinnsound/)
 7.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
 
 [2018 - 2012]
