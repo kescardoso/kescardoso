@@ -68,7 +68,7 @@
 [ 2020 ]
 
 1.  <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme), currently under development
-2.  <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [WebSite](kika-boutique-ado.herokuapp.com/)
+2.  <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [WebSite](https://kika-boutique-ado.herokuapp.com/)
 3.  <strong>The Cryptopedia (Milestone #3):</strong> [Repo](https://github.com/kescardoso/cryptopedia) | [WebSite](https://thecryptopedia.world/)
 
 [ 2019 ]
