@@ -2,11 +2,11 @@
 
 <img src="https://github.com/kescardoso/kescardoso/blob/master/images/header.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - Full-Stack software develope (training at Code Institute) and UX Design unicorn (self-teaching). FinTech and Blockchain enthusiast. I also tweet about Cryptocurrencies at @TokensForK.">
 
-🔭 **I’m currently working on:** Finishing my diploma training at Code Institute, and my final milestone project
-
-🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
+🔭 **I’m currently working on:** Finishing my diploma training and my final milestone project at Code Institute
 
 👯 **I’m looking to collaborate on:** An awesome Fintech and/or Cryptocurrency project, start-up or company
+
+🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
 
 ⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I'm from 🦄
 
@@ -54,10 +54,18 @@
 
 <br>
 
-<p align="center">
-    🔔 &nbsp; <strong>Feel free to check my current projects bellow, and my repos from the main menu bar &nbsp; 👀</strong>
+<h2 align="center">
+    🔔 &nbsp; Feel free to check my current projects and repos bellow, and from the main topmenu &nbsp; 👀
     <p align="center">
         ⬇︎ &nbsp; ⬇︎ &nbsp; ⬇︎ 
     </p>
+</h2>
 
-</p>
+<h3 align="center">
+    <strong>Main Projects (Links)</strong>
+    <p align="center">
+        [ 2020 ]
+        <br>
+        <strong>Repo:</strong> [https://github.com/kescardoso/stripeme](StripeMe: Milestone #4 underdevelopment)
+    </p>
+</h2>
