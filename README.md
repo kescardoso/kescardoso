@@ -4,7 +4,7 @@
 
 🔭 **I’m currently working on:** Finishing my diploma training and my final milestone project at Code Institute
 
-👯 **I’m looking to collaborate on:** An awesome Fintech and/or Cryptocurrency project, start-up or company
+👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company
 
 🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
 
