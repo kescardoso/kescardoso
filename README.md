@@ -63,14 +63,25 @@
     </p>
 </h3>
 
-<p align="center">
-    <strong>Main Projects (Links)</strong>
-</p>
+#### <strong>Main Projects (Links)</strong>
 
-<p align="center">
 [ 2020 ]
-</p>
 
-1. <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme), currently under development
+1.  <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme), currently under development
+2.  <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [WebSite](kika-boutique-ado.herokuapp.com/)
+3.  <strong>The Cryptopedia (Milestone #3):</strong> [Repo](https://github.com/kescardoso/cryptopedia) | [WebSite](https://thecryptopedia.world/)
 
-2. <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [Heroku Site](kika-boutique-ado.herokuapp.com/)
+[ 2019 ]
+
+4.  <strong>Map&Chill (Milestone #2):</strong> [Repo](https://github.com/kescardoso/mapnchill) | [WebSite](http://mapnchill.me/)
+5.  <strong>Rosie Resume:</strong> [Repo](https://github.com/kescardoso/rosie) | [WebSite](https://kescardoso.github.io/rosie/)
+6.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](thecryptopedia.worldhttps://kescardoso.github.io/yinnsound/)
+7.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
+
+[2018 - 2012]
+
+8. <strong>Kes Cardoso Prana & Pixels</strong> [Wordpress Site](http://www.kescardoso.com/)
+9. <strong>Sapoti (Blogger Theme)</strong> [Demo Site](https://sapoti-demo.blogspot.com/)
+10. <strong>Sapoti Noir (Blogger Theme)</strong> [Demo Site](https://sapotinoir-demo.blogspot.com/)
+11. <strong>Pitanga (Blogger Theme)</strong> [Demo Site](https://pitanga-demo.blogspot.com/)
+12. <strong>Miss Natureba (1st personal brand site)</strong> [Demo Site](https://missnatureba.blogspot.com/)
