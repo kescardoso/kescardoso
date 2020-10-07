@@ -78,7 +78,7 @@
 6.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](https://kescardoso.github.io/yinnsound/)
 7.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
 
-[2018 - 2012]
+[2012 - 2018]
 
 8. <strong>Kes Cardoso Prana & Pixels</strong> [Wordpress Site](http://www.kescardoso.com/)
 9. <strong>Sapoti (Blogger Theme)</strong> [Demo Site](https://sapoti-demo.blogspot.com/)
