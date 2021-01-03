@@ -1,14 +1,14 @@
 ## I am Kes Cardoso &nbsp; &nbsp; <a href="https://github.com/kescardoso" alt="GitHub" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/github-16.png"></a> &nbsp; <a href="mailto:kescardoso@gmail.com" alt="Email" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/email-16.png"></a> &nbsp; <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> &nbsp; <a href="https://twitter.com/kescardoso" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a> &nbsp; <a href="https://instagram.com/kescardoso" alt="Instagram" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/instagram-16.png"></a> &nbsp; <a href="https://pinterest.com/kescardoso" alt="Pinterest" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/pinterest-16.png"></a>
 
-<img src="https://github.com/kescardoso/kescardoso/blob/master/images/header.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - Full-Stack software develope (training at Code Institute) and UX Design unicorn (self-teaching). FinTech and Blockchain enthusiast. I also tweet about Cryptocurrencies at @TokensForK.">
+<img src="https://github.com/kescardoso/kescardoso/blob/master/images/header.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - Full-Stack software developer, FinTech and Blockchain enthusiast. Cryptocurrency Tweets at @kescardoso.">
 
-🔭 **I’m currently working on:** Finishing my diploma training and my final milestone project at Code Institute
+🔭 **I’m currently working on:** Self-teaching UX Design, and learning all I can about: Cryptocurrency investments and technologies, UFOs, and plant-based soup making
 
 👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company
 
-🌱 **I’m currently learning:** How to tend for an appartment garden and how to invest in Cryptocurrency
+🌱 **I’m currently learning:** How to tend for an appartment garden and how to teach women about Cryptocurrency investments
 
-⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I'm from 🦄
+⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I come from 🦄
 
 <hr>     
 
@@ -67,7 +67,7 @@
 
 [ 2020 ]
 
-1.  <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme), currently under development
+1.  <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme)| [WebSite](https://kika-stripe-me.herokuapp.com/)
 2.  <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [WebSite](https://kika-boutique-ado.herokuapp.com/)
 3.  <strong>The Cryptopedia (Milestone #3):</strong> [Repo](https://github.com/kescardoso/cryptopedia) | [WebSite](https://thecryptopedia.world/)
 
