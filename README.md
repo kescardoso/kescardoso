@@ -2,13 +2,13 @@
 
 <img src="https://github.com/kescardoso/kescardoso/blob/master/images/header.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - Full-Stack software developer, FinTech and Blockchain enthusiast. Cryptocurrency Tweets at @kescardoso.">
 
-🔭 **I’m currently working on:** Self-teaching UX Design, and learning all I can about: Cryptocurrency investments and technologies, UFOs, and plant-based soup making
+🔭 **I’m currently working on:** improving my UX design skills, planning a cryptocurrency investment teaching program for women, finding UFOs, and how to cook plant-based chiken soaps.
 
-👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company
+👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company.
 
-🌱 **I’m currently learning:** How to tend for an appartment garden and how to teach women about Cryptocurrency investments
+🌱 **I’m currently learning:** How to tend for an appartment garden and everything about Cryptocurrency investments and technologies.
 
-⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I come from 🦄
+⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I come from 🧜🏻‍♀️.
 
 <hr>     
 
