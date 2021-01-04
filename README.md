@@ -69,19 +69,21 @@
 
 1.  <strong>StripeMe (Milestone #4):</strong> [Repo](https://github.com/kescardoso/stripeme)| [WebSite](https://kika-stripe-me.herokuapp.com/)
 2.  <strong>Boutique Ado:</strong> [Repo](https://github.com/kescardoso/boutique_ado) | [WebSite](https://kika-boutique-ado.herokuapp.com/)
-3.  <strong>The Cryptopedia (Milestone #3):</strong> [Repo](https://github.com/kescardoso/cryptopedia) | [WebSite](https://thecryptopedia.world/)
+3.  <strong>To-Do List (Django Mini App):</strong> [Repo](https://github.com/kescardoso/django-todo-list) | [Live App](https://kika-django-todo.herokuapp.com/)
+4.  <strong>The Cryptopedia (Milestone #3):</strong> [Repo](https://github.com/kescardoso/cryptopedia) | [WebSite](https://thecryptopedia.world/)
+5.  <strong>Task Manager (Flask Mini App):</strong> [Repo](https://github.com/kescardoso/flask-task-manager) | [Live App](https://kika-task-manager.herokuapp.com/)
 
 [ 2019 ]
 
-4.  <strong>Map&Chill (Milestone #2):</strong> [Repo](https://github.com/kescardoso/mapnchill) | [WebSite](http://mapnchill.me/)
-5.  <strong>Rosie Resume:</strong> [Repo](https://github.com/kescardoso/rosie) | [WebSite](https://kescardoso.github.io/rosie/)
-6.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](https://kescardoso.github.io/yinnsound/)
-7.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
+6.  <strong>Map&Chill (Milestone #2):</strong> [Repo](https://github.com/kescardoso/mapnchill) | [WebSite](http://mapnchill.me/)
+7.  <strong>Rosie Resume:</strong> [Repo](https://github.com/kescardoso/rosie) | [WebSite](https://kescardoso.github.io/rosie/)
+8.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](https://kescardoso.github.io/yinnsound/)
+9.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
 
 [2012 - 2018]
 
-8. <strong>Kes Cardoso Prana & Pixels</strong> [Wordpress Site](http://www.kescardoso.com/)
-9. <strong>Sapoti (Blogger Theme)</strong> [Demo Site](https://sapoti-demo.blogspot.com/)
-10. <strong>Sapoti Noir (Blogger Theme)</strong> [Demo Site](https://sapotinoir-demo.blogspot.com/)
-11. <strong>Pitanga (Blogger Theme)</strong> [Demo Site](https://pitanga-demo.blogspot.com/)
-12. <strong>Miss Natureba (1st personal brand site)</strong> [Demo Site](https://missnatureba.blogspot.com/)
+10. <strong>Kes Cardoso Prana & Pixels</strong> [My Wordpress Site](http://www.kescardoso.com/)
+11. <strong>Sapoti (Blogger Theme)</strong> [Demo Site](https://sapoti-demo.blogspot.com/)
+12. <strong>Sapoti Noir (Blogger Theme)</strong> [Demo Site](https://sapotinoir-demo.blogspot.com/)
+13. <strong>Pitanga (Blogger Theme)</strong> [Demo Site](https://pitanga-demo.blogspot.com/)
+14. <strong>Miss Natureba (1st personal brand site)</strong> [Demo Site](https://missnatureba.blogspot.com/)
