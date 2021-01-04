@@ -6,7 +6,7 @@
 
 👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company.
 
-🌱 **I’m currently learning:** How to cook plant-based chicken soups, how to ace online karaoke, and everything about cryptocurrency investments and technologies.
+🌱 **I’m currently learning:** How to ace online karaoke, and everything about cryptocurrency investments and blockchain technologies.
 
 ⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I come from 🧜🏻‍♀️.
 
