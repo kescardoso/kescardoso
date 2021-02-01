@@ -2,7 +2,7 @@
 
 <img src="https://github.com/kescardoso/kescardoso/blob/master/images/header2.png" alt="Kesia Cardoso - Command Line Bottisatva: enlightening tiny pixels for a greater purpose - junior software developer, FinTech and Blockchain enthusiast. Cryptocurrency Tweets at @kescardoso.">
 
-🔭 **I’m currently working on:** improving my Python and UX skills, planning a cryptocurrency education program for women, and searching UFOs.
+🔭 **I’m currently working on:** improving my JS, Python and UX skills, planning a cryptocurrency educational program for women, and searching UFOs.
 
 👯 **I’m looking to collaborate on:** An awesome Fintech and/or Blockchain project, start-up or company.
 
