@@ -8,9 +8,7 @@
 
 ⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent: I gave up placing where I come from.
 
-<hr>     
-
-
+<hr>
 
 ### Languages
 
@@ -52,16 +50,9 @@
 ![Photoshop](https://img.shields.io/static/v1?label=Photoshop&message=🖌&style=flat&color=26C9FF&logo=adobe-photoshop)
 ![Canva](https://img.shields.io/static/v1?label=Canva&message=🖌&style=flat&color=00C4CC&logo=canva)
 
-<br>
+<hr>
 
-<h3 align="center">
-    🔔 &nbsp; Check my current projects and repos bellow, or from the topmenu &nbsp; 👀
-    <p align="center">
-        ⬇︎ &nbsp; ⬇︎ &nbsp; ⬇︎ 
-    </p>
-</h3>
-
-#### <strong>Main Projects (Links)</strong>
+#### <strong>My Main Projects</strong>
 
 [ 2020 ]
 
@@ -77,11 +68,3 @@
 7.  <strong>Rosie Resume:</strong> [Repo](https://github.com/kescardoso/rosie) | [WebSite](https://kescardoso.github.io/rosie/)
 8.  <strong>Yin & Sound in the South (Milestone #1):</strong> [Repo](https://github.com/kescardoso/yinnsound) | [WebSite](https://kescardoso.github.io/yinnsound/)
 9.  <strong>TeaDrop:</strong> [Repo](https://github.com/kescardoso/teadrop) | [WebSite](https://kescardoso.github.io/teadrop/)
-
-[2012 - 2018]
-
-10. <strong>Kes Cardoso Prana & Pixels</strong> [My Wordpress Site](http://www.kescardoso.com/)
-11. <strong>Sapoti (Blogger Theme)</strong> [Demo Site](https://sapoti-demo.blogspot.com/)
-12. <strong>Sapoti Noir (Blogger Theme)</strong> [Demo Site](https://sapotinoir-demo.blogspot.com/)
-13. <strong>Pitanga (Blogger Theme)</strong> [Demo Site](https://pitanga-demo.blogspot.com/)
-14. <strong>Miss Natureba (1st personal brand site)</strong> [Demo Site](https://missnatureba.blogspot.com/)
