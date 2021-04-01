@@ -11,3 +11,5 @@
 - 🛠 **Looking to collaborate on:** `An awesome Fintech and/or Cryptocurrency project.`
 - 📚 **Learning:** `Javascript and jQuery, and how to ace online karaoke.`
 - 🦩 **Fun fact:** `I'm Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from.`
+
+![Kes Cardoso's GitHub stats](https://github-readme-stats.vercel.app/api?username=kescardoso&theme=onedark&show_icons=true&hide=issues&count_private=true)
