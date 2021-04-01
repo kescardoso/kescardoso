@@ -13,3 +13,4 @@
 - 🦩 **Fun fact:** `I'm an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from.`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kescardoso&theme=onedark&show_icons=true&hide=issues&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kescardoso&layout=compact&langs_count=6&theme=onedark)](https://github.com/kescardoso/github-readme-stats)
