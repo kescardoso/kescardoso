@@ -2,7 +2,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-orange?style=plastic-&logo=Gmail&logoColor=white&link=mailto:kescardoso@gmail.com)](mailto:kescardoso@gmail.com)
 [![Linkedin](https://img.shields.io/badge/Linkedin-yellow?style=plastic-&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kescardoso/)](https://www.linkedin.com/in/kescardoso/)
 [![Devpost](https://img.shields.io/badge/Devpost-yellowgreen?style=plastic-&logo=Devpost&logoColor=white&link=https://devpost.com/kescardoso/)](https://devpost.com/kescardoso/)
-[![Twitter](https://img.shields.io/badge/Twitter-green?style=plastic-&logo=Devpost&logoColor=white&link=https://twitter.com/kescardoso/)](https://twitter.com/kescardoso/)
+[![Twitter](https://img.shields.io/badge/Twitter-green?style=plastic-&logo=Twitter&logoColor=white&link=https://twitter.com/kescardoso/)](https://twitter.com/kescardoso/)
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
