@@ -2,7 +2,7 @@
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
-I am currently...
+`C U R E N T L Y ...`
 - 👩🏼‍💻 **Working on:** `open-source projects as an intern at MLH.`
 - 🛠 **Looking to collaborate on:** `An awesome Fintech and/or Cryptocurrency project.`
 - 📚 **Learning:** `Javascript and jQuery, and how to ace online karaoke.`
