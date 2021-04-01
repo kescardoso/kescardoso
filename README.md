@@ -1,4 +1,4 @@
-## I am Kes Cardoso &nbsp; <a href="mailto:kescardoso@gmail.com" alt="Email" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/email-16.png"></a> &nbsp; <a href="https://www.linkedin.com/in/kescardoso/" alt="Linkedin" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/linkedin-16.png"></a> &nbsp; <a href="https://twitter.com/kescardoso" alt="Twitter" target="_blank"><img src="https://github.com/kescardoso/kescardoso/blob/master/icons/twitter-16.png"></a>
+## Hi! I'm Kes <img src="https://media.giphy.com/media/ZCGlF41uo0GY7oPymE/giphy.gif" width="40px">
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
