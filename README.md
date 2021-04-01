@@ -6,6 +6,4 @@ I am currently...
 - 👩🏼‍💻 **Working on:** `open-source projects as an intern at MLH.`
 - 🛠 **Looking to collaborate on:** `An awesome Fintech and/or Cryptocurrency project.`
 - 📚 **Learning:** `Javascript and jQuery, and how to ace online karaoke.`
-- 🦩 **Fun fact:** `I'm Italian-Brazilian, from France, with a Canadian-English accent. I gave up placing where I come from.`
-
-|                                                             | ⚡ **Fun fact:** I'm Italian-Brazilian, from France, with a Canadian-English accent. I gave up placing where I come from.|
+- 🦩 **Fun fact:** `I'm Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from.`
