@@ -6,12 +6,29 @@
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
-`>>>> in 2021...`
-- 🤖 **Favorite Technologies:** `Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma.`
-- 💪 **Working on:** `super cool open-source projects as an intern at MLH.`
-- 🛠 **Looking to collaborate on:** `An awesome Fintech, Cryptocurrency, or Data Science project.`
-- 📚 **Learning:** `Javascript and jQuery, UX, Data Science, and how to ace online karaoke.`
-- 🦩 **Fun fact:** `I'm an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from.`
+```python
+app.route("/me_currently")`
+def in_2021():
+  if info == updated:
+  
+    🤖 "favorite_technologies": requests.get(
+        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma'
+        ),
+    💪 "working_on": requests.get(
+        'super cool open-source projects as an intern at MLH'
+        ),
+    🛠 "looking_to_collaborate_on": requests.get(
+        'an awesome Fintech, Cryptocurrency, or Data Science project'
+        )
+    📚 "learning": requests.get(
+        'Javascript and jQuery, UX, Data Science, and how to ace online karaoke'
+        )
+    🦩 "fun_fact": requests.get(
+        'I am an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from'
+        )
+        
+  return flash(🍉)
+```
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kescardoso&theme=onedark&show_icons=true&hide=issues&count_private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kescardoso&layout=compact&langs_count=6&theme=onedark)](https://github.com/kescardoso/github-readme-stats)
