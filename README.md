@@ -6,7 +6,7 @@
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
-`C U R E N T L Y ...`
+`>>>> in 2021...`
 - 🤖 **Favorite Technologies:** `Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma.`
 - 💪 **Working on:** `super cool open-source projects as an intern at MLH.`
 - 🛠 **Looking to collaborate on:** `An awesome Fintech, Cryptocurrency, or Data Science project.`
