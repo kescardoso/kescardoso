@@ -7,9 +7,10 @@
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
 `C U R E N T L Y ...`
-- 👩🏼‍💻 **Working on:** `open-source projects as an intern at MLH.`
-- 🛠 **Looking to collaborate on:** `An awesome Fintech and/or Cryptocurrency project.`
-- 📚 **Learning:** `Javascript and jQuery, and how to ace online karaoke.`
+- 👩🏼‍💻 **Favorite Technologies:** `Python, Flask, MongoDB, Bootstrap, HTML, CSS, VSCode, GitHub, Heroku, Figma, Photoshop, iMovie, Canvas.`
+- 👩🏼‍💻 **Working on:** `super cool open-source projects as an intern at MLH.`
+- 🛠 **Looking to collaborate on:** `An awesome Fintech, Cryptocurrency, or Data Science project.`
+- 📚 **Learning:** `Javascript and jQuery, Data Science, and how to ace online karaoke.`
 - 🦩 **Fun fact:** `I'm an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from.`
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kescardoso&theme=onedark&show_icons=true&hide=issues&count_private=true)
