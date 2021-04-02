@@ -11,19 +11,19 @@ app.route("/me_currently")`
 def in_2021():
   if info == updated:
   
-    🤖 "favorite_technologies": requests.get(
+    🤖 "favorite_technologies": request.data(
         'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma'
         ),
-    💪 "working_on": requests.get(
+    💪 "working_on": request.data(
         'super cool open-source projects as an intern at MLH'
         ),
-    🛠 "looking_to_collaborate_on": requests.get(
+    🛠 "looking_to_collaborate_on": request.data(
         'an awesome Fintech, Cryptocurrency, or Data Science project'
         )
-    📚 "learning": requests.get(
+    📚 "learning": request.data(
         'Javascript and jQuery, UX, Data Science, and how to ace online karaoke'
         )
-    🦩 "fun_fact": requests.get(
+    🦩 "fun_fact": request.data(
         'I am an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from'
         )
         
