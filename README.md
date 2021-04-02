@@ -12,7 +12,7 @@ def in_2021():
   if info == updated:
   
     🤖 "favorite_technologies": request.data(
-        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma'
+        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma, and Jasper (my cat)'
         ),
     💪 "working_on": request.data(
         'super cool open-source projects as an intern at MLH'
