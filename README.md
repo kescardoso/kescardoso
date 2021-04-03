@@ -18,7 +18,7 @@ def in_2021():
         'super cool open-source projects as an intern at MLH'
         ),
     🛠 "looking_to_collaborate_on": request.data(
-        'an project/team related to Fintech, Cryptocurrency, or Data'
+        'a project/team related to Fintech, Cryptocurrency, or Data'
         )
     📚 "learning": request.data(
         'Javascript and jQuery, UX, Data Science and Analytics, and how to ace online karaoke'
