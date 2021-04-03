@@ -18,10 +18,10 @@ def in_2021():
         'super cool open-source projects as an intern at MLH'
         ),
     🛠 "looking_to_collaborate_on": request.data(
-        'an awesome Fintech, Cryptocurrency, or Data Science project'
+        'an awesome project and team related to Fintech, Cryptocurrency, or Data'
         )
     📚 "learning": request.data(
-        'Javascript and jQuery, UX, Data Science, and how to ace online karaoke'
+        'Javascript and jQuery, UX, Data Science and Analytics, and how to ace online karaoke'
         )
     🦩 "fun_fact": request.data(
         'I am an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from'
