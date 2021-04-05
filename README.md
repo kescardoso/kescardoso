@@ -11,8 +11,8 @@ app.route("/me_currently")`
 def in_2021():
   if info == updated:
   
-    🤖 "favorites": request.data(
-        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma, UX and Jasper (my cat)'
+    🤖 "favorite_technologies": request.data(
+        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma, UX, and Jasper (my cat)'
         ),
     💪 "working_on": request.data(
         'super cool collaborative open-source projects as an intern at MLH'
