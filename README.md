@@ -7,9 +7,9 @@
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
 ```python
-app.route("/me_currently")`
-def in_2021():
-  if info == updated:
+app.route("/aloha")`
+def me_in_2021():
+  if current_info == up_to_date:
   
     🤖 "favorite_technologies": request.data(
         'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma, UX, and Jasper (my cat)'
