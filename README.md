@@ -6,10 +6,6 @@
 
 ![](https://media.giphy.com/media/2RiU1RUjyh4C4/giphy.gif)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kescardoso&layout=compact&langs_count=6&theme=onedark)](https://github.com/kescardoso/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kescardoso&theme=onedark&show_icons=true&hide=issues&count_private=true)
-
 ```python
 app.route("/me_currently")`
 def in_2021():
