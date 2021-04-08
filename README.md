@@ -12,20 +12,22 @@ def me_in_2021():
   if current_info == up_to_date:
   
     🤖 "favorite_technologies": request.data(
-        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, Heroku, Figma, UX, and Jasper (my cat)'
-        ),
+        'Python, Flask, HTML, CSS, MongoDB, Bootstrap, VSCode, GitHub, 
+        Heroku, Figma, UX, and Jasper (my cat)'),
+        
     💪 "working_on": request.data(
-        'super cool collaborative open-source projects as an intern at MLH'
-        ),
+        'super cool collaborative open-source projects as an intern at MLH'),
+        
     🛠 "looking_to_collaborate_on": request.data(
-        'a project/team related to Fintech, Cryptocurrency, or Data'
-        )
+        'a project/team related to Fintech, Cryptocurrency, or Data')
+        
     📚 "learning": request.data(
-        'Javascript and jQuery, UX, Data Science, and how to ace online karaoke'
-        )
+        'Javascript and jQuery, UX, Data Science, 
+        and how to ace online karaoke')
+        
     🦩 "fun_fact": request.data(
-        'I am an Italian-Brazilian from France with a Canadian-English accent. I gave up placing where I come from'
-        )
+        'I am an Italian-Brazilian from France with a Canadian-English accent. 
+        I gave up placing where I come from')
         
   return flash(🍉)
 ```
